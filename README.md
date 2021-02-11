@@ -1,2 +1,2 @@
 # intelligenttrading.org
-project website homepage
+organization homepage
